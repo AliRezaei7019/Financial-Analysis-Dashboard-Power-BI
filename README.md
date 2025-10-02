@@ -63,8 +63,7 @@ The dashboard covers **balance sheet, income statement (P&L), cash flow, forecas
 
 ---
 
-## 📷 Sample Screenshots
-*(replace with your uploaded screenshots in the `assets/` folder)*
+##  Sample Screenshots
 
 ### Balance Sheet
 ![Balance Sheet](assets/f1.png)
